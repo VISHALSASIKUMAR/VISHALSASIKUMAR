@@ -15,7 +15,7 @@
 
 <h3 align="left"><strong>Languages & Frameworks</strong></h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css" />
 </p>
 <h3><strong>Tools</strong></h3>
   <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" />
