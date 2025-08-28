@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishalsasikumar.vishalsasikumar" alt="visitor badge"/>
 <br>
 <h1 align="left" style="margin-top: 30px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Hello!!+This+is+ Vishal&color=8892BF" alt="nameIntro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Hello!!+This+is+ Vishal&color=8892BF"  />
 </h1>
 <h3 align="left"><strong>Student</strong></h3>
 <div align="left">
